@@ -1,0 +1,24 @@
+/* ----------- VERY IMPORTANT NOTICE - AVISO MUITO IMPORTANTE - AVISO MUY IMPORTANTE ------------------
+*
+* Construído por Lucas R. - KillovSky, agradecimentos especiais ao grupo Legião Z.
+*
+* Reprodução, edição e outros estão autorizados MAS SEM REMOVER MEUS CRÉDITOS.
+* Caso remova, resulta na quebra da licença do mesmo, o que é um crime federal.
+* Leia mais em http://escolhaumalicenca.com.br/licencas/mit/ ou no comando /termos.
+*
+* Desculpe pelos comandos que estão em "inglês" como o "/groupinfo", amo o inglês! 
+* Então os programo dessa forma. (Desconheço palavras suficientes em português) :'D
+*
+* Plagiar meus comandos não te torna coder, vá estudar, não seja um ladrão miserável.
+* Levei meses nesse projeto e não paro de me empenhar em deixar todos felizes.
+* Então você gostaria de ter algo que se esforçou muito de GRAÇA roubado de você? Pois eu não.
+*
+* Se ainda planeja roubar, saiba que eu espero de coração que você nunca seja roubado.
+* P.S: Plagiar este BOT significa estar vendendo a alma para Lucas R. - KillovSky! ;D
+*
+* Obrigado a todos que me apoiam, que não roubam isso, que pegam e põem os créditos e...
+*
+* 						Obrigado a você que escolheu a Íris.
+*
+* ---------------------------------------------------------------------------------------------------*/
+
