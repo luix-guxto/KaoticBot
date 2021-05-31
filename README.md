@@ -1,4 +1,3 @@
-<p align="center" ><img alt="Bot" src="https://cdn.shopify.com/app-store/listing_images/ba8bf84d0f9ae4222730eca1ab6a980b/icon/COKu9ab0lu8CEAE=.png"></p>
 <p align="center" ><img alt="Kaotic Bot" src="https://github.com/luix-guxto/KaoticBot/blob/main/lib/media/img/kaotic.jpg?raw=true"></p>
 <h1 align="center">Kaotic Bot (WhatsApp Bot)</h1>
 <p align="center">
