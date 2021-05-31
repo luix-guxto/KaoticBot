@@ -22,7 +22,7 @@
 <h3><p align="center">Version: 1.0</p></h3>
 
 <h2 align="center">📆  Features</h2>
-Todos os que estão marcados já se encontram presente no **Kaotic Bot** funcionando. 
+Todos os que estão marcados já se encontram presente no ***Kaotic Bot*** funcionando. 
 Os que não estão, é porque ainda estão em desenvolvimento.
 
 - [x] Xp
@@ -46,8 +46,8 @@ Os que não estão, é porque ainda estão em desenvolvimento.
 
 Ainda está em desenvolvimento, por isso fique atento a atualizado no nosso git!
 
-Para executar o Kaotic, você precisara de ter o **[(nodeJS)](https://nodejs.org/en/download/) atualizado, recomendo versão LTS e do **[(GIT CMD)](https://git-scm.com/downloads)
-### **instalações**
+Para executar o Kaotic, você precisara de ter o ***[(nodeJS)](https://nodejs.org/en/download/)*** atualizado, recomendo versão LTS e do ***[(GIT CMD)](https://git-scm.com/downloads)***
+### ***instalações***
 
 * Instalar o [(Git)](https://git-scm.com/downloads)
 * Instalar o [(nodeJS versão LTS)](https://nodejs.org/en/download/)
@@ -62,7 +62,7 @@ Para a instalação de tudo acima no Linux, você pode usar o comando abaixo:
 ```
 Caso você tenha erros com a versão do node no repositório de seu Linux, use o [(Node Source)](https://github.com/nodesource/distributions), lembre-se de usar a LTS(14).
 
-### No **TERMINAL**
+### No ***TERMINAL***
 
 ```
 $ git clone https://github.com/luix-guxto/KaoticBot
@@ -73,7 +73,7 @@ $ npm audit fix --force
 
 <h2 align="center"🤖 Iniciar</h2>
  
- ### No **TERMINAL**
+ ### No ***TERMINAL***
  ```
  $ cd KaoticBot
  $ npm start
