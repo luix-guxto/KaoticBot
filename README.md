@@ -72,7 +72,7 @@ $ npm i
 $ npm audit fix --force
 ```
 
-<h2 align="center"🤖 Iniciar</h2>
+<h2 align="center">🤖 Iniciar</h2>
  
  ### No ***TERMINAL***
  ```
