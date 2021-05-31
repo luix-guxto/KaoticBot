@@ -81,7 +81,7 @@ $ npm audit fix --force
  
  * caso seja aprimeira vez que esteja ligando, será nescessario ler o QRcode no seu WhatsApp.
 
-<h2 align="center😄 Agradecimentos</h2>
+<h2 align="center"😄 Agradecimentos</h2>
 
            
 * [Open-Wa](https://github.com/open-wa)
