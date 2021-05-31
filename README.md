@@ -2,8 +2,8 @@
 
 <h1 align="center">Kaotic Bot (WhatsApp Bot)</h1>
 <p align="center">
-  <img alt"GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/luix-guxto/KaoticBot">
-  <img alt="Latest version" src="https://img.shields.io/github/v/release/luix-guxto/KaoticBot.svg" alt="Latest version">
+  <img alt"GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/luix-guxto/kaoticbot">
+  <img alt="Latest version" src="https://img.shields.io/github/v/release/luix-guxto/kaoticbot.svg" alt="Latest version">
   
   <p align="center">
   Um WhatsApp bot destinado a diversão em grupo, fazendo figurinhas e ajudando a manter o pessoal ativo, brincadeiras por xp e outros...
@@ -17,6 +17,7 @@
 <a href="https://github.com/luix-guxto/KaoticBot/blob/master/README.md#-install">Install</a> •
 <a href="https://github.com/luix-guxto/KaoticBot/blob/master/README.md#-iniciar">Run</a> •
 <a href="https://github.com/luix-guxto/KaoticBot/blob/master/README.md#-agradecimentos">Agradecimentos</a> •
+  <a href="https://github.com/luix-guxto/KaoticBot/blob/master/README.md#-agradecimentos">Adeus</a>
 </p>
 
 <h3><p align="center">Version: 1.0</p></h3>
@@ -89,5 +90,5 @@ $ npm audit fix --force
 
 ### Muito obrigado a todos!
 
-# Adeus!
+<h2 align="center"👋 Adeus</h2>
 <p align="center" ><img alt="Adeus" src="https://images.vexels.com/media/users/3/158561/isolated/lists/cfecaee52b2a66a7ec9eb0fdb342ec39-autocolante-de-adeus.png"></p>
