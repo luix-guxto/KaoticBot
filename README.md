@@ -24,6 +24,7 @@
 <h2 align="center">📆  Features</h2>
 Todos os que estão marcados já se encontram presente no **Kaotic Bot** funcionando. 
 Os que não estão, é porque ainda estão em desenvolvimento.
+
 - [x] Xp
 - [x] Contador de mensagem
 - [x] Funções de administrador
@@ -39,6 +40,7 @@ Os que não estão, é porque ainda estão em desenvolvimento.
 - [x] anti link
 - [ ] nHentai
 - [x] destrava
+
 
 <h2 align="center">🖥 Install</h2>
 
